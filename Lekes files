@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/schsite/sch.css">
+     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <nav>
+    <div class="container">
+        <div class="logo">
+         <a href="#"><p>Landmark University </p>
+           <p>Student Online Portal</p>
+         </a>
+         </div>
+      <div class="links">
+        <ul class="navlinks">
+        <li class="link">
+        <i class="bx bx-book"></i>
+        <a href="#" >COURSES Reg.</a>
+        </li>
+
+          <li class="link">
+            <a href="#"><i class="bx bx-book"></i> Payment & Account Info ▾</a>
+          </li>
+          
+
+          <li class="link">
+            <a href="#"><i class="bx bx-book"></i> Exams & Results ▾</a>
+          </li>
+
+          <li class="link">
+            <a href="#"><i class="bx bx-book"></i> Others ▾</a>
+          </li>
+
+          <li class="link">
+           <a href="#" class="navword"> <i class='bx bx-user'></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+ <div class="transaction">
+
+  <div class="tr1">
+    <h2>Student Recent Transaction</h2>
+    <div class="t1">
+      <!-- Header Row -->
+      <div class="grid-item header">SN</div>
+      <div class="grid-item header">TRANSACTION ID</div>
+      <div class="grid-item header">TOTAL AMOUNT</div>
+      <div class="grid-item header">DATE GENERATED</div>
+      <div class="grid-item header">PAYMENT STATUS</div>
+      <div class="grid-item header">PAYMENT RECEIPT DATE</div>
+      <div class="grid-item header">TOOLS</div>
+
+      <!-- Row 1 -->
+      <div class="grid-item1">1</div>
+      <div class="grid-item">30010001</div>
+      <div class="grid-item">120000</div>
+      <div class="grid-item">2025-06-01</div>
+      <div class="grid-item">Paid</div>
+      <div class="grid-item">2025-06-02</div>
+      <div class="grid-item"><i class='bx  bx-clipboard'></i></div>
+
+      <!-- Row 2 -->
+      <div class="grid-item">2</div>
+      <div class="grid-item">44100002</div>
+      <div class="grid-item">800000</div>
+      <div class="grid-item">2025-06-02</div>
+      <div class="grid-item">Pending</div>
+      <div class="grid-item">-</div>
+      <div class="grid-item"><i class='bx bx-clipboard'></i>
+</div>
+
+      <!-- Row 3 -->
+      <div class="grid-item">3</div>
+      <div class="grid-item">45510003</div>
+      <div class="grid-item">200000</div>
+      <div class="grid-item">2025-06-03</div>
+      <div class="grid-item">Paid</div>
+      <div class="grid-item">2025-06-04</div>
+      <div class="grid-item"><i class='bx  bx-clipboard'></i></div>
+
+      <!-- Row 4 -->
+      <div class="grid-item">4</div>
+      <div class="grid-item">40010004</div>
+      <div class="grid-item">150000</div>
+      <div class="grid-item">2025-06-04</div>
+      <div class="grid-item">Failed</div>
+      <div class="grid-item">-</div>
+      <div class="grid-item"><i class='bx  bx-clipboard'></i></div>
+
+      <!-- Row 5 -->
+      <div class="grid-item">5</div>
+      <div class="grid-item">50010005</div>
+      <div class="grid-item">300000</div>
+      <div class="grid-item">2025-06-05</div>
+      <div class="grid-item">Paid</div>
+      <div class="grid-item">2025-06-06</div>
+      <div class="grid-item"><i class='bx  bx-clipboard'></i> </div>
+    </div>
+  </div>
+
+  <div class="si1">
+    <h2>Student Information</h2>
+    <div class="si">
+      <div class="gmword1">Reg Num:</div>
+      <div class="gword1">2202655</div>
+
+      <div class="gmword2">FULL NAME:</div>
+      <div class="gword2">EYARHONO GREAT ONYEKACHI</div>
+
+      <div class="gmword3">COLLEGE:</div>
+      <div class="gword3">PURE AND APPLIED SCIENCE</div>
+
+      <div class="gmword4">PROGRAMME:</div>
+      <div class="gword4">COMPUTER SCIENCE</div>
+
+      <div class="gmword5">LEVEL:</div>
+      <div class="gword5">300</div>
+    </div>
+  </div>
+
+</div>
+
+
+<footer>
+    <div class="content">
+    <p class="one">Read Portal How Ios & FAQS Here</p>
+    <p class="two">Developed by the centre for Systems and Information Services For Landmark University 2025</p>
+    </div>
+</footer>
+
+
+</body>
+</html>
